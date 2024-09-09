@@ -4,24 +4,29 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 16/0007739  |  Guilherme Marques Rosa |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O trabalho consiste da seleção de problemas do [LeetCode](https://leetcode.com) com nível `hard` que abordem o tema de Programação Dinâmica.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### 879. Profitable Schemes
+![879](./screenshots/879.png)
+
+### 1402. Reducing Dishes
+![1402](./screenshots/1402.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+
+Para instalar qualquer dependência basta executar o comando: `poetry install` na reiz do projeto
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Dentro do diretório `problems` estão as soluções dos problemas separados em diferentes arquivos.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para averiguar a solução, basta seguir o link do problema que está citado no topo do arquivo, copiar o código no editor e submeter a solução.
+
+
 
 
 
